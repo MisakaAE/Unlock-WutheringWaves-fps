@@ -14,7 +14,7 @@ os
 ## 使用
 ```bash
 git clone https://github.com/MisakaAE/Unlock-WutheringWaves-fps
-cd Unlock-WutheringWaves-Fps
+cd Unlock-WutheringWaves-fps
 python.exe app.py
 ```
 
