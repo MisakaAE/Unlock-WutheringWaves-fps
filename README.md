@@ -17,6 +17,12 @@ git clone https://github.com/MisakaAE/Unlock-WutheringWaves-fps
 cd Unlock-WutheringWaves-fps
 python.exe app.py
 ```
+> 不需要选择到具体的`LocalStorage.db`
+  只需要选择启动器所在的目录，也就是鸣潮的根目录
+
++ 启动脚本
+  tkinter的窗口选择`鸣潮启动器`的文件夹，如`C:/Wuthering Waves`，随后按照脚本提示输入指定的项
+
 
 ## 编译
 ```bash
